@@ -72,7 +72,7 @@ src/
 - React 19
 - TypeScript
 - Vite
-- Yup (for validation schemas if needed)
+
 
 ## Notes
 
